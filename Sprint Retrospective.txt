@@ -1,0 +1,16 @@
+Sprint Retrospective - Sprint 2
+
+O que funcionou bem:
+
+- A cor da fonte foi aplicado corretamente nos nomes dos veículos
+- Os nomes dos link funcionou corretação, usamos o Git e GitHub com sucesso para versionar o código
+
+
+O que não funcionou bem:
+
+- Funcionou tudo de forma adequada
+ 
+
+Sugestões de melhoria:
+
+- Criar checklist de validação antes do push final, Planejar testes em múltiplos navegadores
