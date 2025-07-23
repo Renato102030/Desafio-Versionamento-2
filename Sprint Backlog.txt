@@ -1,0 +1,9 @@
+Historia ID: 1
+descrição: Mudar a cor dos veículos na página index para azul
+Esforço estimado: 2 horas
+Observações: Editar o HTML manualmente
+
+Historia ID: 3
+Descrição: Mudar o nome dos links da pagina contato para um nome mais detalhado.
+Esforço estimado: 1 horas
+observações: Editar o HTML manualmente
